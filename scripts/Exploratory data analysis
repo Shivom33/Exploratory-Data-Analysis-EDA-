@@ -2,7 +2,7 @@
 print'========================================================='
 print'Exploratory Data Analysis (EDA) in SQL'
 print'Project: Data Exploratory Analysis'
-print' Author : Aman Tyagi'
+print' Author : Shivom Khanduri'
 print'=========================================================='
 /*
  This script is a starting template for performing
